@@ -1,7 +1,7 @@
 <h2 align="center">Varioss</h1>
 
 <h3 align="center">
-  I somehow convinced myself I can And Should code
+  Somehow or another, it appears I am an developer
   
 </h3>
 <p align="center">
